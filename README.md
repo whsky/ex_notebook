@@ -11,10 +11,10 @@ Week1:
 Monday:
 --------
 
-[Intro to Python](ex_notebook/intro_python.md)
+[Intro to Python](https://github.com/whsky/ex_notebook/blob/master/intro_python.md)
 
 
 Tuesday:
 ---------
 
-[OOP](ex_notebook/oop.md)
+[OOP](https://github.com/whsky/ex_notebook/blob/master/oop.md)
