@@ -1,7 +1,20 @@
-#Monday:
+Class Curriculum:
+----------------
 
-We did intro to Python:
+https://github.com/zipfian/welcome/tree/17-01-DS-DP
 
-https://github.com/zipfian/python-intro
 
-Make sure that you can switch between _py2_ and _py3_!
+Week1:
+------
+
+
+Monday:
+--------
+
+[Intro to Python](ex_notebook/intro_python.md)
+
+
+Tuesday:
+---------
+
+[OOP](ex_notebook/oop.md)
