@@ -5,16 +5,15 @@ https://github.com/zipfian/welcome/tree/17-01-DS-DP
 
 
 Week1:
-------
+-----
 
 
-Monday:
---------
+**Monday:**
+
 
 [Intro to Python](https://github.com/whsky/ex_notebook/blob/master/into_python/intro_python.md)
 
 
-Tuesday:
----------
+**Tuesday:**
 
 [OOP](https://github.com/whsky/ex_notebook/blob/master/oop/oop.md)
